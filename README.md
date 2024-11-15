@@ -1,2 +1,2 @@
 # git-demo
-Testing
+this is my first project (testing)
